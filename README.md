@@ -68,7 +68,7 @@ Nuvarande wireframe med de flesta funktioner.
 
 
 
-![wireframes](https://imgur.com/OtheGVM.jpg)
+![wireframes](https://i.imgur.com/OtheGVMb.png)
 
 
 
