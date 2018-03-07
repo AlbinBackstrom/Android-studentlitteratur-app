@@ -55,7 +55,7 @@ För att driftsätta applikationen behövs det tillstånd från de tilltänkta f
 
 
 Första skissen
+![alt text](https://i.imgur.com/sQ2DflK.png)
 
 
 Nuvarande wireframe med de flesta funktioner.
-([url=https://imgur.com/OtheGVM][img]http://i.imgur.com/OtheGVMb.png[/img][/url])
