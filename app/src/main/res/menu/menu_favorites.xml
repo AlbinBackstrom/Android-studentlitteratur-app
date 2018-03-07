@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.albin.studentlitteratur.Favorites">
+
+
+    <item android:id="@+id/remove_favorites"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_action_discard"
+        app:showAsAction="always|withText"
+        android:title="@string/remove_favs"
+        android:onClick="removeFavoritesClicked"
+        />
+
+    <item android:id="@+id/home"
+        android:orderInCategory="2"
+        android:icon="@drawable/home"
+        app:showAsAction="always|withText"
+        android:title="@string/home"
+        android:onClick="homeClicked"
+        />
+
+    <item android:id="@+id/openBooks"
+        android:orderInCategory="1"
+        android:icon="@drawable/library"
+        app:showAsAction="always|withText"
+        android:title="@string/books"
+        android:onClick="booksClicked"
+        />
+
+
+
+</menu>

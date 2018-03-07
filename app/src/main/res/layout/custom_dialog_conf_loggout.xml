@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:background="@drawable/diabox"
+    android:gravity="end"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/confHead"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/confBody"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp">
+
+
+        <Button
+            android:background="@drawable/diabox"
+            android:layout_width="80dp"
+            android:layout_height="45dp"
+            android:text="Nej"
+            android:textColor="@android:color/white"
+            android:id="@+id/btn_no_loggout"
+            android:clickable="true"
+            android:layout_gravity="bottom" />
+
+        <Button
+            android:background="@drawable/diabox"
+            android:layout_width="80dp"
+            android:layout_height="45dp"
+            android:text="Ja"
+            android:layout_marginLeft="40dp"
+            android:textColor="@android:color/white"
+            android:id="@+id/btn_yes_loggout"
+            android:clickable="true"
+            android:layout_gravity="bottom" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+    <!--i button style="?android:attr/buttonStyleSmall"
+    -->

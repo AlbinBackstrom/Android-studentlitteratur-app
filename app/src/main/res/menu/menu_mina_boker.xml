@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.albin.studentlitteratur.MinaBocker">
+
+
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home"
+        android:orderInCategory="1"
+        android:onClick="homeClicked"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/favvs"
+        android:icon="@drawable/folderstar"
+        android:title="Favoriter"
+        android:orderInCategory="2"
+        android:onClick="favsClicked"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/addNewBook"
+        android:icon="@drawable/ic_action_new"
+        android:title="Lägg till ny bok"
+        android:orderInCategory="3"
+        android:onClick="addNewBookClicked"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/removeBooks"
+        android:icon="@drawable/ic_action_discard"
+        android:title="Ta bort bok"
+        android:orderInCategory="3"
+        android:onClick="removeBookClicked"
+        app:showAsAction="always"/>
+
+</menu>
