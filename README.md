@@ -58,4 +58,4 @@ Första skissen
 
 
 Nuvarande wireframe med de flesta funktioner.
-![wireframes]([url=https://imgur.com/OtheGVM][img]http://i.imgur.com/OtheGVMb.png[/img][/url])
+([url=https://imgur.com/OtheGVM][img]http://i.imgur.com/OtheGVMb.png[/img][/url])
