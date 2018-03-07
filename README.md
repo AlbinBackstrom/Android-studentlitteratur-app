@@ -154,6 +154,7 @@ Nuvarande wireframe med de flesta funktioner.
 
 
 
+![wireframes](https://imgur.com/OtheGVM)
 
 
 
