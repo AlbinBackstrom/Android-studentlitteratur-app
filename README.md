@@ -2,8 +2,8 @@
 -Read me
 
 
-Applikationen Studentlitteratur
-Caserapport av: Albin Bäckström
+Applikationen Studentlitteratur  
+Caserapport av: Albin Bäckström  
 
 ### Inledning, bakgrund och analys
 Applikationen Studentlitteratur är en applikation till smarttelefoner och surfplattor för snabb och enkel åtkomst till litteratur som används vid studier.  I demo-versionen som har utvecklats får användaren tillgång till ett antal exempel inom området informatik. Innehållet som presenteras är enbart generell information om böckerna och användaren får möjligheten att länkas till Studentlitteraturs hemsida där böckerna kan köpas i fysiskt form eller i vissa fall e-bok. I fullversionen är tanken att användaren ska få ett antal böcker gratis, detta för att visa applikationens fulla potential och detta leder troligtvis till att fler böcker köps och att applikationen når ut till en bredare massa. Elektroniska böcker köpta via applikationen bör även säljas till ett rabatterat pris eftersom det sparar in på de fysiska böckerna som behöver tryckas. Vilket i sin tur sparar företaget pengar genom minskad kostnad för tryckeri och frakt.
