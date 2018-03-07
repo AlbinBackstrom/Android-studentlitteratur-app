@@ -13,14 +13,14 @@ Den tilltänkta användargruppen till applikationen är först och främst stude
 Syftet med applikationen är att tillhanda hålla ett elektroniskt bibliotek med studentlitteratur för användarna som snabbt ska komma åt. Oavsett om denne är uppkopplad eller inte. Om boken köps kommer en elektronisk version att finnas tillgänglig för användaren via applikationen. Antingen online eller laddas den ner till enhetens minne för åtkomst när enheten är utan uppkoppling.  Mervärde skapas i och med att användaren inte behöver gå runt med ett antal tunga böcker på sig. Tid sparas på leveranstider mot att köpa en fysisk bok som dessutom även kan vara slut hos leverantören. Att söka direkt i boken via en sökfunktion i applikationen är överlägset mot att slå upp i register och leta genom ett antal sidor innan det som söks finns. 
 
 **Skallkrav:**
-Skapa användare – Applikationen skall vara personlig med egna böcker.
--Logga in - Med ovan skapade användare.
--Logga ut - Andra ska kunna använda applikationen på samma enhet.
--Läsa böcker – Grundtanken med applikationen är att det ska gå att läsa böcker  i den.
--Söka efter böcker – Användaren ska kunna söka efter ny litteratur.
--Söka i text i böcker – Det ska kunna gå att söka genom en bok efter vissa ord eller meningar.
--Köpa ny litteratur genom applikationen – Användaren ska kunna köra nya böcker genom applikationen.
--Radera böcker från applikationen – Om boken ej längre är av intresse ska den kunna ta bort ur systemet. Men användaren ska fortfarande ha möjlighet att få åtkomst till den igen via sitt konto.
+- Skapa användare – Applikationen skall vara personlig med egna böcker.
+- Logga in - Med ovan skapade användare.
+- Logga ut - Andra ska kunna använda applikationen på samma enhet.
+- Läsa böcker – Grundtanken med applikationen är att det ska gå att läsa böcker  i den.
+- Söka efter böcker – Användaren ska kunna söka efter ny litteratur.
+- Söka i text i böcker – Det ska kunna gå att söka genom en bok efter vissa ord eller meningar.
+- Köpa ny litteratur genom applikationen – Användaren ska kunna köra nya böcker genom applikationen.
+- Radera böcker från applikationen – Om boken ej längre är av intresse ska den kunna ta bort ur systemet. Men användaren ska fortfarande ha möjlighet att få åtkomst till den igen via sitt konto.
 
 **Börkrav**
 Lägga in egen litteratur – Det bör kunna gå att lägga in egen kurslitteratur eller liknande material i applikationen.
