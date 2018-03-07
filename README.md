@@ -23,15 +23,15 @@ Syftet med applikationen är att tillhanda hålla ett elektroniskt bibliotek med
 - Radera böcker från applikationen – Om boken ej längre är av intresse ska den kunna ta bort ur systemet. Men användaren ska fortfarande ha möjlighet att få åtkomst till den igen via sitt konto.
 
 **Börkrav**
-Lägga in egen litteratur – Det bör kunna gå att lägga in egen kurslitteratur eller liknande material i applikationen.
-Få mer information om boken – Information om författare, förlag, år, upplaga med mera bör vara åtkomligt för användaren.
-Spara favoritböcker för snabb åtkomst – Att spara sina favoritböcker eller den litteratur som är mest aktuell för tillfället bör vara snabbt åtkomstbar.
-Radera favoritböcker – Böcker som inte längre är aktuella som favoriter bör kunna raderas ur favoritlistan.
+- Lägga in egen litteratur – Det bör kunna gå att lägga in egen kurslitteratur eller liknande material i applikationen.
+- Få mer information om boken – Information om författare, förlag, år, upplaga med mera bör vara åtkomligt för användaren.
+- Spara favoritböcker för snabb åtkomst – Att spara sina favoritböcker eller den litteratur som är mest aktuell för tillfället bör vara snabbt åtkomstbar.
+- Radera favoritböcker – Böcker som inte längre är aktuella som favoriter bör kunna raderas ur favoritlistan.
 
 **Kompletteringskrav**
-Referenshantering – Få färdiga referenser till exempel Harvard-systemet.
-Möjlighet att kopiera delar ur boken – Till exempel för citat eller kopior inom tillåtna områden.
-Byta utseende/tema på applikationen – Ett standardutseende kan bli tröttsamt och kan i värsta fall leda till bortfall av användare.
+- Referenshantering – Få färdiga referenser till exempel Harvard-systemet.
+- Möjlighet att kopiera delar ur boken – Till exempel för citat eller kopior inom tillåtna områden.
+- Byta utseende/tema på applikationen – Ett standardutseende kan bli tröttsamt och kan i värsta fall leda till bortfall av användare.
 
 
 **Andra system.**
