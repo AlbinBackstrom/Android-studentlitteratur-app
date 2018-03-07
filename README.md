@@ -54,92 +54,6 @@ Vid skapandet av databasen användes ett tredjepartsprogram vid namn DB Browser 
 För att driftsätta applikationen behövs det tillstånd från de tilltänkta förlagen som äger rättigheterna till böckerna. Det är även tänkt att de skall stå för den största delen av finansieringen för utvecklandet. Utan dem kan det bli problematiskt att inrikta sig på deras specifika kurslitteratur. Speciellt när tanken är att ge användaren ett antal böcker gratis i fullversionen av applikationen. Om inget förlag ger sitt medgivande kommer applikationen att förlora sitt fulla syfte och enbart fungera som ett e-handelsystem mot diverse bokhandlare. Det vill troligtvis även medföra att de elektroniska böckerna kommer ha svårt att implementeras i applikationen då många av E-böcker är skyddade av olika system som gör det svårt att använda dem hur som helst.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Första skissen
 
 
@@ -154,7 +68,7 @@ Nuvarande wireframe med de flesta funktioner.
 
 
 
-![wireframes](https://imgur.com/OtheGVM)
+![wireframes](https://imgur.com/OtheGVM.jpg)
 
 
 
