@@ -1,6 +1,6 @@
 # Android-studentlitteratur-app
-[Skissar](https://github.com/AlbinBackstrom/Android-studentlitteratur-app#f%C3%B6rsta-skissen-p%C3%A5-appen)  
-[Wireframes](https://github.com/AlbinBackstrom/Android-studentlitteratur-app#slutgiltiga-wireframe-med-de-flesta-funktioner)
+[Wireframe-skissar](https://github.com/AlbinBackstrom/Android-studentlitteratur-app#f%C3%B6rsta-skissen-p%C3%A5-appen)  
+[Slutgiltiga wireframes från appen](https://github.com/AlbinBackstrom/Android-studentlitteratur-app#slutgiltiga-wireframe-med-de-flesta-funktioner)
 
 
 Applikationen Studentlitteratur  
